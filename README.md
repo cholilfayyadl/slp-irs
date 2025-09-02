@@ -11,7 +11,7 @@
 
 ## Running the Code
 
-Import data and file and Run in Google Colab
+Import data.xlsx and slp_fayyadl.ipynb -> Run in Google Colab
 
 ## Result
 ![Accuracy and Loss](result.png)
